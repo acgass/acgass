@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @acgass
-- 👀 I’m interested in python, dance, running, and getting outside with my cori
+- 👀 I’m interested in python, dance, running, and getting outside with my corgi
 - 🌱 I’m currently learning more about front end development
 
 <!---
